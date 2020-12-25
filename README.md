@@ -2,7 +2,7 @@
 A simple Database Management System.
 
 # Made for
-Pthone course.
+Python course.
 
 # What I learned.
   * Efficency in Python.
